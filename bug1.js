@@ -1,3 +1,3 @@
 function alertar() {
-  alert 'Olá!';
+  alert('Olá!');
 }
