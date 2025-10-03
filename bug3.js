@@ -1,3 +1,5 @@
-function dizerOi {
+function dizerOi() {
   console.log("Oi");
 }
+
+dizerOi();
